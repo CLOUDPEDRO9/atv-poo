@@ -1,4 +1,3 @@
-//IMPORTAR A CLASSE QUE QUERO UTILIZAR
 import { Arvore } from './Arvore';
 
 //INSTANCIAR (CRIAR OBJETO)

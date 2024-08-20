@@ -1,4 +1,3 @@
-//IMPORTAR A CLASSE QUE QUERO UTILIZAR
 import { Esmalte } from './Esmalte';
 
 //INSTANCIAR (CRIAR OBJETO)

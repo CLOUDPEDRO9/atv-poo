@@ -1,4 +1,3 @@
-//Luis
 import { Impressora3D } from './Impressora3D';
 
 //INSTANCIAR (CRIAR OBJETO)

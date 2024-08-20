@@ -1,4 +1,3 @@
-//nome:Letícia Calixto Diniz
 import { Microondas } from './Microondas';
 
 const microondas1 : Microondas = new Microondas (25, 22, `Panasonic` ); 
